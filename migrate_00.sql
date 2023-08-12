@@ -42,6 +42,7 @@ CREATE TABLE cars
   stock INT NOT NULL
 );
 
+
 CREATE TABLE car_rates
 (
   car_id INT NOT NULL,
